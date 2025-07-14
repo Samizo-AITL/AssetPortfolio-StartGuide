@@ -1,6 +1,10 @@
 # 💰 AssetPortfolio Start Guide  
 Asset Management & Investment Learning Guide for the Technology Era
 
+<p align="right">
+🌐 <a href="./README.md">日本語版はこちら</a> | English Version
+</p>
+
 ---
 
 ## 📘 Overview
