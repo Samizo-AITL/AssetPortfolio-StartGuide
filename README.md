@@ -100,7 +100,7 @@ Asset Management & Investment Learning Guide for the Technology Era
 この教材は以下のプロジェクトと連携・発展可能です：
 
 - [SamizoGPT / Project Design Hub](https://github.com/Samizo-AITL/SamizoGPT)：GPT活用とプロジェクト設計テンプレート集  
-- [Edusemi-Plus](https://github.com/Samizo-AITL/Edusemi-v4x/tree/main/plus)：地政学・企業戦略から見た半導体投資分析教材  
+- [Edusemi-Plus](https://github.com/Samizo-AITL/Edusemi-Plus)：地政学・企業戦略から見た半導体投資分析教材  
 - [Rekiden](https://github.com/Samizo-AITL/Rekiden)：戦略的意思決定とシナリオ設計力育成教材（歴史SLG型）  
 
 ---
