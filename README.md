@@ -14,7 +14,7 @@ This repository is a two-part learning guide designed to help individuals unders
 ---
 
 ## 📚 教材構成｜Structure
-
+```
 AssetPortfolio-StartGuide/
 ├── chapters/         # 教材本文（全14章×2部構成）
 │   ├── part1_foundation/      ← 投資の基礎編（全7章）
@@ -22,7 +22,7 @@ AssetPortfolio-StartGuide/
 ├── templates/       # ChatGPTテンプレート集（実践支援用）
 ├── assets/                          # 図表・補助資料（必要に応じて）
 └── README.md
-
+```
 ---
 
 ## 🧠 2部構成の内容｜Two-Part Curriculum
