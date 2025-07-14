@@ -118,9 +118,6 @@ Asset Management & Investment Learning Guide for the Technology Era
 GitHub: [Samizo-AITL](https://github.com/Samizo-AITL)  
 Email: shin3t72@gmail.com  
 
-主なプロジェクト：  
-[Edusemi](https://github.com/Samizo-AITL/Edusemi-v4x) / [EduController](https://github.com/Samizo-AITL/EduController) / [AITL-H](https://github.com/Samizo-AITL/AITL-H) / [Rekiden](https://github.com/Samizo-AITL/Rekiden)
-
 ---
 
 ## 🌐 GitHub Pages
