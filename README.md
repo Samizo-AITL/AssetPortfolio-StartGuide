@@ -41,7 +41,7 @@ Asset Management & Investment Learning Guide for the Technology Era
 - [第5章：実際の始め方（スマホ／iPad／PC対応）](./chapters/part1_basics/05_how_to_start.md)
 - [第6章：初心者向けのおすすめ商品と配分](./chapters/part1_basics/06_products_allocation.md)
 - [第7章：リバランスと中長期戦略](./chapters/part1_basics/07_rebalance_strategy.md)
-- 📌 特別編：ChatGPTを使った資産設計（※準備中）
+- 📌 特別編：[ChatGPTを使った資産設計](./chapters/part1_basics/sp_chatgpt_design.md)
 
 ---
 
