@@ -3,7 +3,7 @@
 Asset Management & Investment Learning Guide for the Technology Era
 
 <p align="right">
-🌐 English Version | <a href="./README_en.md">English Version</a>
+🌐   <a href="./README_en.md">English Version</a>
 </p>
 
 ---
