@@ -4,6 +4,12 @@ Asset Management & Investment Learning Guide for the Technology Era
 
 ---
 
+<p align="right">
+🌐 <a href="./README.md">日本語版はこちら</a> | English Version
+</p>
+
+---
+
 ## 📘 概要｜Overview
 
 このリポジトリは、**テクノロジー分野に注目した個人資産運用**を学ぶための2部構成教材です。  
