@@ -85,6 +85,26 @@ Asset Management & Investment Learning Guide for the Technology Era
 
 ---
 
+## 🧾 今後の拡張予定｜Planned Enhancements
+
+- ✅ PBR・PER・ROE・ROSなどの**ファンダメンタル指標分析テンプレート**の追加  
+- ✅ 東証による「PBR1倍割れ企業への是正圧力」への対応テンプレート  
+- ✅ 年1回のリバランスを支援する**GPT記録テンプレート**および**可視化ツール（Streamlit or Excel）**の導入  
+- ✅ 教育用スライド（社内研修・導入セミナー向け）の追加  
+- ✅ コンテンツ構造マップ（PDF／画像）およびGitHub Pagesサイトの整備  
+
+---
+
+## 🔗 関連プロジェクトとの連携｜Project Ecosystem
+
+この教材は以下のプロジェクトと連携・発展可能です：
+
+- [SamizoGPT / Project Design Hub](https://github.com/Samizo-AITL/SamizoGPT)：GPT活用とプロジェクト設計テンプレート集  
+- [Edusemi-Plus](https://github.com/Samizo-AITL/Edusemi-v4x/tree/main/plus)：地政学・企業戦略から見た半導体投資分析教材  
+- [Rekiden](https://github.com/Samizo-AITL/Rekiden)：戦略的意思決定とシナリオ設計力育成教材（歴史SLG型）  
+
+---
+
 ## ⚖️ [ライセンス](./LICENSE)｜License
 
 本教材は [MIT License](./LICENSE) に基づき、商用以外での自由利用・再構成が可能です。  
@@ -100,5 +120,11 @@ Email: shin3t72@gmail.com
 
 主なプロジェクト：  
 [Edusemi](https://github.com/Samizo-AITL/Edusemi-v4x) / [EduController](https://github.com/Samizo-AITL/EduController) / [AITL-H](https://github.com/Samizo-AITL/AITL-H) / [Rekiden](https://github.com/Samizo-AITL/Rekiden)
+
+---
+
+## 🌐 GitHub Pages
+
+📘 [教材のWeb版はこちらから閲覧可能です](https://samizo-aitl.github.io/AssetPortfolio-StartGuide/)
 
 ---
