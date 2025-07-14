@@ -24,24 +24,31 @@ AssetPortfolio-StartGuide/
 └── README.md
 ```
 ---
+# 💰 AssetPortfolio Start Guide  
+テクノロジー時代のための資産運用・投資学習教材  
+Asset Management & Investment Learning Guide for the Technology Era
+
+---
 
 ## 🧠 2部構成の内容｜Two-Part Curriculum
 
-### 🔹 第1部：[投資の基本と実践準備](./chapters/part1_foundation/)（Basic Investing Guide）
+### 🔹 第1部：[投資の基本と実践準備](./chapters/part1_basics/)（Basic Investing Guide）
 
-- [第1章：なぜ今、資産運用が必要か](./chapters/part1_foundation/01_why_invest.md)
-- [第2章：投資と資産運用の基本用語](./chapters/part1_foundation/02_terms.md)
-- [第3章：NISAとは何か？制度と使い方](./chapters/part1_foundation/03_nisa.md)
-- [第4章：どこで始める？証券口座の選び方](./chapters/part1_foundation/04_broker.md)
-- [第5章：実際の始め方（スマホ／iPad／PC対応）](./chapters/part1_foundation/05_how_to_start.md)
-- [第6章：初心者向けのおすすめ商品と配分](./chapters/part1_foundation/06_recommend.md)
-- [第7章：リバランスと中長期戦略](./chapters/part1_foundation/07_strategy.md)
-- 📌 特別編：[ChatGPTを使った資産設計](./chapters/part1_foundation/08_chatgpt_design.md)
+- [第1章：なぜ今、資産運用が必要か](./chapters/part1_basics/01_why_invest.md)
+- [第2章：投資と資産運用の基本用語](./chapters/part1_basics/02_terms.md)
+- [第3章：NISAとは何か？制度と使い方](./chapters/part1_basics/03_nisa_intro.md)
+- [第4章：どこで始める？証券口座の選び方](./chapters/part1_basics/04_choose_broker.md)
+- [第5章：実際の始め方（スマホ／iPad／PC対応）](./chapters/part1_basics/05_how_to_start.md)
+- [第6章：初心者向けのおすすめ商品と配分](./chapters/part1_basics/06_products_allocation.md)
+- [第7章：リバランスと中長期戦略](./chapters/part1_basics/07_rebalance_strategy.md)
+- 📌 特別編：ChatGPTを使った資産設計（※準備中）
+
+---
 
 ### 🔹 第2部：[テクノロジー銘柄実践ガイド](./chapters/part2_techstocks/)（Tech Stocks Strategy）
 
-- [第8章：テクノロジー投資って何？](./chapters/part2_techstocks/08_what_is_tech.md)
-- [第9章：有望分野の選び方](./chapters/part2_techstocks/09_select_sector.md)
+- [第8章：テクノロジー投資って何？](./chapters/part2_techstocks/08_intro_tech.md)
+- [第9章：有望分野の選び方](./chapters/part2_techstocks/09_focus_sectors.md)
 - [第10章：ETFで銘柄を逆引きする](./chapters/part2_techstocks/10_etf_reverse_lookup.md)
 - [第11章：企業を深掘りする（事業分析・IR）](./chapters/part2_techstocks/11_deep_dive.md)
 - [第12章：ChatGPTで比較分析する](./chapters/part2_techstocks/12_compare_stocks.md)
