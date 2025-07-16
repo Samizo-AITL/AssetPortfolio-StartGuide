@@ -65,6 +65,10 @@ You can copy and paste the following templates directly into ChatGPT to assist y
 | [04_prompt_stock_compare.md](./templates/04_prompt_stock_compare.md) | Comparing multiple stocks |
 | [05_prompt_custom_list.md](./templates/05_prompt_custom_list.md) | Creating your custom watchlist |
 | [06_prompt_investment_judgment.md](./templates/06_prompt_investment_judgment.md) | For use in decision-making workshops |
+| [07_prompt_fundamentals_analysis.md](./templates/07_prompt_fundamentals_analysis.md) | Fundamental indicators analysis (PBR, ROE, etc.) |
+| [08_prompt_pbr1x_response.md](./templates/08_prompt_pbr1x_response.md) | Analyze companies under PBR < 1 and their responses |
+| [09_prompt_us_macro_analysis.md](./templates/09_prompt_us_macro_analysis.md) | US macroeconomic conditions (interest, inflation, FRB) |
+| [10_prompt_macro_vs_stocks.md](./templates/10_prompt_macro_vs_stocks.md) | Correlation between macro data and stock sectors |
 
 ---
 
