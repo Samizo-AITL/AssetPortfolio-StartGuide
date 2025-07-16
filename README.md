@@ -76,6 +76,23 @@ Asset Management & Investment Learning Guide for the Technology Era
 
 ---
 
+## 📈 ファンダメンタル分析テンプレート｜Fundamental Analysis Templates
+
+✅ 企業価値を見極めるための指標（PBR・PER・ROE・ROSなど）をChatGPTで比較・分析できるテンプレートです。  
+✅ 特に、東証による「PBR1倍割れ企業への是正圧力」に対し、どの企業が対応しているかを見極める視点を提供します。
+
+| ファイル名 | 用途 |
+|------------|------|
+| [07_prompt_fundamentals_analysis.md](./templates/07_prompt_fundamentals_analysis.md) | PBR・PER・ROE・ROSなど主要指標の比較分析用 |
+| [08_prompt_pbr1x_response.md](./templates/08_prompt_pbr1x_response.md) | PBR1倍割れ企業の是正方針・還元策をChatGPTに分析させるためのテンプレート |
+
+📌 活用例：
+- 「PBRが1倍を下回る企業のROEや利益率を比較」
+- 「資本効率改善・自社株買い・ROE向上などの施策があるか？」
+- 「PERが低いのは単なる過小評価か、将来性が懸念されているか？」
+
+---
+
 ## 🛠 対象読者｜Target Audience
 
 - 投資初心者（NISA・ETF・積立投資から始めたい方）  
