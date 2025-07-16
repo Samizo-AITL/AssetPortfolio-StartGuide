@@ -3,7 +3,7 @@
 Asset Management & Investment Learning Guide for the Technology Era
 
 <p align="right">
-🌐   <a href="./README_en.md">English Version</a>
+🌐 <a href="./README_en.md">English Version</a>
 </p>
 
 ---
@@ -27,11 +27,6 @@ AssetPortfolio-StartGuide/
 ├── assets/                          # 図表・補助資料（必要に応じて）
 └── README.md
 ```
----
-# 💰 AssetPortfolio Start Guide  
-テクノロジー時代のための資産運用・投資学習教材  
-Asset Management & Investment Learning Guide for the Technology Era
-
 ---
 
 ## 🧠 2部構成の内容｜Two-Part Curriculum
@@ -63,7 +58,7 @@ Asset Management & Investment Learning Guide for the Technology Era
 
 ## ✍️ [ChatGPTテンプレート集](./templates/)｜Prompt Templates
 
-以下のテンプレートをそのままChatGPTに貼り付けて、実践演習に活用できます：
+以下のテンプレートをChatGPTに貼り付けて、分析・比較・判断に活用できます：
 
 | ファイル名 | 用途 |
 |------------|------|
@@ -73,23 +68,10 @@ Asset Management & Investment Learning Guide for the Technology Era
 | [04_prompt_stock_compare.md](./templates/04_prompt_stock_compare.md) | 複数銘柄の比較分析 |
 | [05_prompt_custom_list.md](./templates/05_prompt_custom_list.md) | 自作銘柄リスト構築 |
 | [06_prompt_investment_judgment.md](./templates/06_prompt_investment_judgment.md) | 投資判断ワークショップ用 |
-
----
-
-## 📈 ファンダメンタル分析テンプレート｜Fundamental Analysis Templates
-
-✅ 企業価値を見極めるための指標（PBR・PER・ROE・ROSなど）をChatGPTで比較・分析できるテンプレートです。  
-✅ 特に、東証による「PBR1倍割れ企業への是正圧力」に対し、どの企業が対応しているかを見極める視点を提供します。
-
-| ファイル名 | 用途 |
-|------------|------|
-| [07_prompt_fundamentals_analysis.md](./templates/07_prompt_fundamentals_analysis.md) | PBR・PER・ROE・ROSなど主要指標の比較分析用 |
-| [08_prompt_pbr1x_response.md](./templates/08_prompt_pbr1x_response.md) | PBR1倍割れ企業の是正方針・還元策をChatGPTに分析させるためのテンプレート |
-
-📌 活用例：
-- 「PBRが1倍を下回る企業のROEや利益率を比較」
-- 「資本効率改善・自社株買い・ROE向上などの施策があるか？」
-- 「PERが低いのは単なる過小評価か、将来性が懸念されているか？」
+| [07_prompt_fundamentals_analysis.md](./templates/07_prompt_fundamentals_analysis.md) | 財務指標（PBR・ROE等）分析 |
+| [08_prompt_pbr1x_response.md](./templates/08_prompt_pbr1x_response.md) | PBR1倍割れ企業の是正策分析 |
+| [09_prompt_us_macro_analysis.md](./templates/09_prompt_us_macro_analysis.md) | 米国金利・インフレ・FRB政策の分析 |
+| [10_prompt_macro_vs_stocks.md](./templates/10_prompt_macro_vs_stocks.md) | マクロ指標と株式セクターの相関分析 |
 
 ---
 
@@ -104,11 +86,11 @@ Asset Management & Investment Learning Guide for the Technology Era
 
 ## 🧾 今後の拡張予定｜Planned Enhancements
 
-- ✅ PBR・PER・ROE・ROSなどの**ファンダメンタル指標分析テンプレート**の追加  
-- ✅ 東証による「PBR1倍割れ企業への是正圧力」への対応テンプレート  
-- ✅ 年1回のリバランスを支援する**GPT記録テンプレート**および**可視化ツール（Streamlit or Excel）**の導入  
-- ✅ 教育用スライド（社内研修・導入セミナー向け）の追加  
-- ✅ コンテンツ構造マップ（PDF／画像）およびGitHub Pagesサイトの整備  
+- ✅ 四季報スタイルの企業要約テンプレート
+- ✅ ESG／コーポレートガバナンス視点の導入
+- ✅ 年1回のリバランス支援テンプレート（GPT記録＋可視化）
+- ✅ 教育用スライド資料（社内研修・講義用）
+- ✅ コンテンツ構造マップ（PDF／画像）とGitHub Pages整備
 
 ---
 
