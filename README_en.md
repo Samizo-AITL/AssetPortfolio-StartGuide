@@ -72,30 +72,61 @@ You can copy and paste the following templates directly into ChatGPT to assist y
 
 ---
 
-## 🛠 Who This Is For
+## 🛠 Target Audience
 
-- Beginners looking to start with NISA, ETFs, or regular investing  
-- Individual investors interested in the tech sector  
-- Users who want to visualize or automate investing with ChatGPT  
-- Educators or internal trainers looking to use this as open-source material (MIT-licensed)
-
----
-
-## ⚖️ [License](./LICENSE)
-
-This project is licensed under the [MIT License](./LICENSE).  
-Free to use, modify, and redistribute for non-commercial, educational, or personal learning purposes.  
-We actively welcome reuse in schools, training, and community education.
+- Beginners who want to start investing with NISA, ETFs, or regular savings  
+- Individual investors interested in the technology sector  
+- Users looking to visualize or automate investing using ChatGPT  
+- Educators or corporate trainers seeking open-source material (MIT-licensed)
 
 ---
 
-## 🌐 Author
+## 🧾 Planned Enhancements
 
-**Shinichi Samizo**  
-GitHub: [Samizo-AITL](https://github.com/Samizo-AITL)  
-Email: shin3t72@gmail.com
+- ✅ Company summary templates in the style of "Shikiho" (Japanese stock report)
+- ✅ Integration of ESG and corporate governance perspectives
+- ✅ Annual rebalancing support templates (GPT log + visualization tools)
+- ✅ Educational slide decks (for training and lectures)
+- ✅ Content structure map (PDF/image) and GitHub Pages website development
 
-Main Projects:  
-[Edusemi](https://github.com/Samizo-AITL/Edusemi-v4x) / [EduController](https://github.com/Samizo-AITL/EduController) / [AITL-H](https://github.com/Samizo-AITL/AITL-H) / [Rekiden](https://github.com/Samizo-AITL/Rekiden)
+---
+
+## 🔗 Project Ecosystem
+
+This repository is designed to connect and evolve with the following open-source projects:
+
+- **SamizoGPT / Project Design Hub**: GPT-driven project design and prompt engineering  
+- **Edusemi-Plus**: Strategic analysis of semiconductor markets from geopolitical and corporate perspectives  
+- **Rekiden**: Scenario-based decision-making and strategic thinking training (History simulation style)
+
+---
+
+## ⚖️ License
+
+This material is distributed under the **MIT License**, and is freely usable, modifiable, and redistributable for **non-commercial**, **educational**, and **personal learning** purposes.  
+We actively encourage its reuse in schools, training programs, and learning communities.
+
+---
+
+## 🧑‍🔬 Author
+
+- **Name**: Shinichi Samizo  
+- **Education**: Master’s in Electrical & Electronic Engineering, Shinshu University Graduate School  
+- **Career**:  
+  Joined Seiko Epson Corporation in 1997  
+  Worked on the following R&D and productization projects:  
+  - Semiconductor device technologies (0.35µm to 0.18µm nodes)  
+  - Logic, memory, and high-voltage integration development  
+  - Inkjet thin-film piezo actuator development  
+  - Core member of the PrecisionCore printhead development  
+- **Contact**:  
+  GitHub: [Samizo-AITL](https://github.com/Samizo-AITL)  
+  Email: shin3t72@gmail.com
+
+---
+
+## 🌐 GitHub Pages
+
+📘 [Click here to view the Web version of this guide](https://samizo-aitl.github.io/AssetPortfolio-StartGuide/)
 
 ---
