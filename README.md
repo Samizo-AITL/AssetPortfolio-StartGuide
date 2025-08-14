@@ -5,9 +5,14 @@
 **テクノロジー時代のための資産運用・投資学習教材**  
 *Asset Management & Investment Learning Guide for the Technology Era*
 
-<p align="right">
-🌐 <a href="./README_en.md">English Version</a>
-</p>
+---
+
+## 🔗 公式リンク | Official Links
+
+| 言語 / Language | GitHub Pages 🌐 | GitHub 💻 |
+|-----------------|----------------|-----------|
+| 🇯🇵 Japanese | [![GitHub Pages JP](https://img.shields.io/badge/GitHub%20Pages-日本語版-brightgreen?logo=github)](https://samizo-aitl.github.io/AssetPortfolio-StartGuide/) | [![GitHub Repo JP](https://img.shields.io/badge/GitHub-日本語版-blue?logo=github)](https://github.com/Samizo-AITL/AssetPortfolio-StartGuide) |
+| 🇺🇸 English | [![GitHub Pages EN](https://img.shields.io/badge/GitHub%20Pages-English-brightgreen?logo=github)](https://samizo-aitl.github.io/AssetPortfolio-StartGuide/en/) | [![GitHub Repo EN](https://img.shields.io/badge/GitHub-English-blue?logo=github)](https://github.com/Samizo-AITL/AssetPortfolio-StartGuide/tree/main/en) |
 
 ---
 
