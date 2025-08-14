@@ -1,6 +1,9 @@
 # 💰 **AssetPortfolio Start Guide**  
 **Asset Management & Investment Learning Guide for the Technology Era**
 
+[![Back to Samizo-AITL Portal](https://img.shields.io/badge/Back%20to%20Samizo--AITL%20Portal-brightgreen)](https://samizo-aitl.github.io/en/) [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](../LICENSE)
+
+
 <p align="right">
 🌐 <a href="./README.md">日本語版はこちら</a>
 </p>
