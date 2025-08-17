@@ -1,3 +1,11 @@
+---
+layout: default
+title: AssetPortfolio Start Guide
+# math: katex   # 数式必要なら
+---
+
+---
+
 # 💰 **AssetPortfolio Start Guide**  
 **Asset Management & Investment Learning Guide for the Technology Era**
 
