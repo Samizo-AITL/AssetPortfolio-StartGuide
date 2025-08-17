@@ -1,10 +1,5 @@
 title: AssetPortfolio Start Guide
-description: Asset management & tech investing learning guide
 markdown: kramdown
 kramdown:
   input: GFM
 theme: null
-
-# 必要に応じて特有CSSを追加
-# extra_css:
-#   - /assets/css/assetportfolio.css 
