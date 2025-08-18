@@ -121,3 +121,31 @@ AssetPortfolio-StartGuide/
 - [**Rekiden**](https://github.com/Samizo-AITL/Rekiden)：戦略的意思決定とシナリオ設計力育成教材（歴史SLG型）
 
 ---
+
+## 👤 **執筆者情報 | Author**
+
+| 📌 項目 / Item | 内容 / Details |
+|------|------|
+| **氏名 / Name** | 三溝 真一（Shinichi Samizo） |
+| **学歴 / Education** | 信州大学大学院 電気電子工学 修了 |
+| **経歴 / Career** | 元 セイコーエプソン株式会社 技術者（1997年〜） |
+| **経験領域 / Expertise** | 半導体デバイス（ロジック・メモリ・高耐圧混載）<br>インクジェット薄膜ピエゾアクチュエータ<br>PrecisionCoreプリントヘッド製品化・BOM管理・ISO教育 |
+| **連絡先 / Contact** | ✉️ [Email](mailto:shin3t72@gmail.com) / 🐦 [X](https://x.com/shin3t72) / 💻 [GitHub](https://samizo-aitl.github.io/) |
+
+---
+
+## 📄 **ライセンス / License**
+
+- **JP:** 本教材は [**MIT License**](https://opensource.org/licenses/MIT) に基づき、**教育・非営利での再利用・編集・派生**を歓迎します。  
+- **EN:** Licensed under **[MIT License](https://opensource.org/licenses/MIT)**. Free to **reuse, modify, and fork** for education/non-profit.
+
+> **JP:** 記述は執筆者の調査・思考に基づきます。｜**EN:** Opinions are those of the author.
+
+---
+
+## 💬 **フィードバック | Feedback**
+> 改善提案や議論はGitHub Discussionsからお願いします。  
+> *Propose improvements or start discussions via GitHub Discussions.*
+
+[![💬 GitHub Discussions](https://img.shields.io/badge/💬%20GitHub-Discussions-brightgreen?logo=github)](https://github.com/Samizo-AITL/AssetPortfolio-StartGuide/discussions)
+
