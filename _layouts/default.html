@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="ja">
+<html lang="{{ page.lang | default: site.lang | default: 'ja' }}">
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
@@ -8,24 +8,53 @@
   <meta name="color-scheme" content="light" />
   <link rel="canonical" href="{{ page.url | absolute_url }}" />
 
-  <!-- ✅ CSS（キャッシュバスター付きで最新を取得） -->
+  <!-- ✅ 共通CSS（キャッシュバスター付きで常に最新） -->
   <link rel="stylesheet"
         href="{{ '/assets/css/style.css' | relative_url }}?v={{ site.time | date: '%s' }}" />
 
-  <!-- ✅ 追加CSS（_config.yml の extra_css に列挙した場合） -->
+  <!-- ✅ 追加CSS（必要な場合だけ/_config.ymlのextra_cssに列挙） -->
   {% if site.extra_css %}
     {% for css in site.extra_css %}
       <link rel="stylesheet" href="{{ css | relative_url }}?v={{ site.time | date: '%s' }}">
     {% endfor %}
   {% endif %}
+
+  <!-- 図：Mermaid（ライト固定） -->
+  <script defer src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
 </head>
 
-<!-- ★ ポータル統一トーン（セピア固定） -->
+<!-- ★ ポータル統一トーン：セピア固定 -->
 <body class="theme-sepia">
   <main class="page-content" aria-label="Content">
+    <!-- 幅・余白はポータルと同一（必要ならCSS側に移してOK） -->
     <div class="wrapper" style="max-width:980px;margin:0;padding:1.5rem 1rem;">
       {{ content }}
     </div>
   </main>
+
+  <!-- Mermaid 初期化：```mermaid → <div class="mermaid"> 置換 + 中央寄せ + ライト固定 -->
+  <script>
+    document.addEventListener('DOMContentLoaded', function () {
+      // ```mermaid を div.mermaid に変換
+      document.querySelectorAll('code.language-mermaid').forEach(function (code) {
+        const pre = code.closest('pre');
+        const div = document.createElement('div');
+        div.className = 'mermaid';
+        div.textContent = code.textContent;
+        (pre || code).replaceWith(div);
+      });
+      // 中央寄せ（CSSに重ねてもOK）
+      document.querySelectorAll('.mermaid').forEach(function (el) {
+        el.style.display = 'block';
+        el.style.margin = '1.5rem auto';
+        el.style.maxWidth = '960px';
+        el.style.textAlign = 'center';
+      });
+      // ライトテーマで描画
+      if (window.mermaid) {
+        mermaid.initialize({ startOnLoad: true, theme: 'default', securityLevel: 'loose' });
+      }
+    });
+  </script>
 </body>
 </html>
