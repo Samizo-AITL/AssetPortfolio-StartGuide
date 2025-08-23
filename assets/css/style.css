@@ -3,6 +3,7 @@ html,body{margin:0;padding:0}
 .site-header,.site-footer,.page-header,.page-footer{display:none!important}
 .page-content{padding:0!important;margin:0!important}
 
+/* Base body (fallback when no theme class) */
 main.page{
   max-width:1200px;
   margin:0 auto;
@@ -51,54 +52,64 @@ code,pre{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
 
 /* =========================================================
    Portal unified look — theme-sepia
-   (body に class="theme-sepia" が付いているときだけ適用)
+   （body に class="theme-sepia" が付いたときだけ適用）
    ========================================================= */
-body.theme-sepia main.page{
-  background:#fdf6e3;           /* セピア背景 */
-  color:#3b2f2f;                /* 本文色 */
+
+/* 本文：日本語=ゴシック / 英語=サンセリフ、背景セピアを強制 */
+body.theme-sepia{
+  background:#fdf6e3 !important;
+  color:#3b2f2f !important;
+  font-family:"Noto Sans JP","Hiragino Kaku Gothic ProN","Yu Gothic",
+               "Segoe UI","Helvetica Neue",Arial,sans-serif !important;
+  line-height:1.9;
+  font-size:1.05em;
 }
 
-/* 見出しは濃い青、H1は左寄せ */
+/* 幅・余白（ポータル準拠） */
+body.theme-sepia .wrapper{max-width:980px !important;margin:0 !important;padding:1.5rem 1rem !important}
+
+/* 見出しは濃い青、H1左寄せ */
 body.theme-sepia h1,
 body.theme-sepia h2,
 body.theme-sepia h3{
-  color:#003366;
-  border-bottom:none;
-  font-weight:700;
+  color:#003366 !important;
+  border-bottom:none !important;
+  font-weight:700 !important;
 }
-body.theme-sepia h1{font-size:2rem;text-align:left;margin-bottom:.8em}
+body.theme-sepia h1{font-size:2rem !important;text-align:left !important;margin-bottom:.8em !important}
 
 /* リンク：少し小さめ＋太字＋下線 */
 body.theme-sepia a{
-  color:#0066cc;
-  font-weight:600;
-  font-size:.95em;
-  text-decoration:underline;
+  color:#0066cc !important;
+  font-weight:600 !important;
+  font-size:.95em !important;
+  text-decoration:underline !important;
 }
-body.theme-sepia a:hover{color:#004c99}
+body.theme-sepia a:hover{color:#004c99 !important}
 
-/* 表：薄茶ヘッダー＋濃いめ罫線＋ストライプ */
-body.theme-sepia table{border:2px solid #999}
+/* 表：薄茶ヘッダー＋濃いめ罫線＋ストライプ（確実に上書き） */
+body.theme-sepia table{border:2px solid #999 !important;border-collapse:collapse !important;width:100% !important}
 body.theme-sepia th{
-  background:#e9ddc9;           /* 薄茶 */
-  color:#2b2b2b;
-  border:2px solid #999;
-  font-weight:700;
-  padding:.8em 1em;
+  background:#e9ddc9 !important;
+  color:#2b2b2b !important;
+  border:2px solid #999 !important;
+  font-weight:700 !important;
+  padding:.8em 1em !important;
+  text-align:left !important;
 }
 body.theme-sepia td{
-  border:1.5px solid #bbb;
-  color:#2b2b2b;
-  padding:.8em 1em;
+  border:1.5px solid #bbb !important;
+  color:#2b2b2b !important;
+  padding:.8em 1em !important;
 }
-body.theme-sepia tr:nth-child(odd) td{background:#ffffff}
-body.theme-sepia tr:nth-child(even) td{background:#f3efe6}
+body.theme-sepia tr:nth-child(odd) td{background:#ffffff !important}
+body.theme-sepia tr:nth-child(even) td{background:#f3efe6 !important}
 
 /* 引用（セピア調・控えめ強調） */
 body.theme-sepia blockquote{
-  background:#fbf6eb;
-  border-left:4px solid #007acc;
-  color:#3a3028;
-  margin:.9em 0;
-  padding:.7em 1em;
+  background:#fbf6eb !important;
+  border-left:4px solid #007acc !important;
+  color:#3a3028 !important;
+  margin:.9em 0 !important;
+  padding:.7em 1em !important;
 }
