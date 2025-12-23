@@ -137,8 +137,6 @@ We actively encourage its reuse in **schools**, **training programs**, and **lea
 - **PrecisionCore Printhead Development, BOM Management, ISO Education**
 
 📬 **Contact**  
-- ✉️ [shin3t72@gmail.com](mailto:shin3t72@gmail.com)  
-- 🐦 [https://x.com/shin3t72](https://x.com/shin3t72)  
 - 💻 [https://samizo-aitl.github.io/](https://samizo-aitl.github.io/)
 
 ---
