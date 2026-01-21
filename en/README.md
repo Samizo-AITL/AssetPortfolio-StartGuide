@@ -128,13 +128,11 @@ We actively encourage its reuse in **schools**, **training programs**, and **lea
 ## 👤 **Author Information**
 
 **Shinichi Samizo**  
-- **M.S. in Electrical and Electronic Engineering, Shinshu University**  
-- Former **Seiko Epson** Corporation Engineer (since 1997)
 
 📌 **Areas of Expertise**:  
 - **Semiconductor Devices (Logic, Memory, High-Voltage Integrated with Logic)**  
 - **Inkjet Thin-Film Piezoelectric Actuators**  
-- **PrecisionCore Printhead Development, BOM Management, ISO Education**
+- **Printhead Development, BOM Management, ISO Education**
 
 📬 **Contact**  
 - 💻 [https://samizo-aitl.github.io/](https://samizo-aitl.github.io/)
